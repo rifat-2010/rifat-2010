@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Welcome to my page!
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -41,13 +41,21 @@ Hi there! I'm **Rifatuzzaman Rifat**. I’m a **MERN Stack Developer** who loves
 ![AI](https://img.shields.io/badge/AI-FF6B00?style=flat&logo=artificial-intelligence&logoColor=white)
 
 ---
-### GitHub Contributions:
-![Snake Grid](https://github.com/rifat-2010/contribution-snake/blob/output/grid.svg)
 
+## GitHub Activity
+![GitHub Readme Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rifat-2010&theme=minimal&hide_title=true&hide_border=true&area=true)
 
+---
 
 ## GitHub Stats
 
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-2010&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifat-2010&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rifat-2010&theme=transparent&hide_border=true&count_private=true) |
+
+---
+
+## GitHub Contributions:
+![GitHub Contribution Snake](https://raw.githubusercontent.com/rifat-2010/rifat-2010/output/github-contribution-grid-snake.svg)
+
+---
