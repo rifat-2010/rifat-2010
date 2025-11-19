@@ -1,4 +1,6 @@
-# Welcome to my page!
+# Welcome to my page! <img src="https://komarev.com/ghpvc/?username=rifat-2010&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" align="right"  />
+
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -7,7 +9,7 @@
 </h1>
 
 ---
-## Where to find me
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"> <b> Where to find me</b>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/ba85320505494f829ddfee23911329a2505bb388/images/linkedin.svg"> LinkedIn</a></code>
@@ -19,13 +21,13 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 Hi there! I'm **Rifatuzzaman Rifat**. I’m a **MERN Stack Developer** who loves building clean and user-friendly applications. I work with **MongoDB, Express.js, React, Node.js** along with HTML, CSS, Tailwind and JavaScript. I enjoy creating projects, learning new things and sharing knowledge. Outside of coding, I like reading and exploring new technologies.
 
 ---
 
-## My Tech Stack
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> My Tech Stack</b>
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -42,20 +44,30 @@ Hi there! I'm **Rifatuzzaman Rifat**. I’m a **MERN Stack Developer** who loves
 
 ---
 
-## GitHub Activity
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GitHub Activity</b>
 ![GitHub Readme Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rifat-2010&theme=minimal&hide_title=true&hide_border=true&area=true)
 
 ---
 
-## GitHub Stats
+## 🚀 GitHub Statistics
 
-| Top Languages | GitHub Stats | GitHub Streak |
-|:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-2010&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifat-2010&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rifat-2010&theme=transparent&hide_border=true&count_private=true) |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat-2010&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=3A7AFE&icon_color=FFB100&text_color=444444" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-2010&layout=compact&hide_border=true&title_color=3A7AFE&icon_color=FFB100&text_color=444444" /> |
+| ------------- | ------------- |
+
+
+## 📊 Repository Stats & Streak
+
+| <img align="center" src="https://github-contributor-stats.vercel.app/api?username=rifat-2010&limit=5&combine_all_yearly_contributions=true&hide_border=true&title_color=3A7AFE&text_color=444444" /> | <img align="center" src="https://streak-stats.demolab.com/?user=rifat-2010&hide_border=true&ring=3A7AFE&fire=FFB100&currStreakLabel=3A7AFE&sideNums=444444&sideLabels=444444&dates=777777" /> |
+| ------------- | ------------- |
 
 ---
 
-## GitHub Contributions:
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GitHub Contributions:</b>
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/rifat-2010/rifat-2010/output/github-contribution-grid-snake.svg)
 
 ---
+
+
+
+
+
