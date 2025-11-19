@@ -13,8 +13,8 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/ba85320505494f829ddfee23911329a2505bb388/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.facebook.com/rifatuzzaman.rifat.2025"><img width="22" src="https://www.digitalunite.com/sites/default/files/images/facebook%20%282%29_1.png"> Facbook</a></code>
-  <code><a href="https://x.com/Rifat240510" title="Stack Overflow Profile"><img width="22" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?semt=ais_incoming&w=740&q=80"> X</a></code>
+  <code><a href="https://www.facebook.com/rifatuzzaman.rifat.2025"><img width="22" src="https://www.digitalunite.com/sites/default/files/images/facebook%20%282%29_1.png"> Facebook</a></code>
+  <code><a href="https://x.com/Rifat240510" title="X Profile"><img width="22" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?semt=ais_incoming&w=740&q=80"> X</a></code>
   <code><a href="https://www.instagram.com/rifatuzzaman_rifat_/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/ba85320505494f829ddfee23911329a2505bb388/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
@@ -62,10 +62,6 @@ Hi there! I'm **Rifatuzzaman Rifat**. I’m a **MERN Stack Developer** who loves
 
 ---
 
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GitHub Contributions:</b>
-![GitHub Contribution Snake](https://raw.githubusercontent.com/rifat-2010/rifat-2010/output/github-contribution-grid-snake.svg)
-
----
 
 
 
