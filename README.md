@@ -13,7 +13,8 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/ba85320505494f829ddfee23911329a2505bb388/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.facebook.com/rifatuzzaman.rifat.2025"><img width="22" src="https://www.digitalunite.com/sites/default/files/images/facebook%20%282%29_1.png"> Facebook</a></code>
+<code><a href="mailto:rifat240510@gmail.com" title="Email Me"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> Gmail</a></code>
+  <code><a href="https://www.facebook.com/rifatuzzaman.rifat.2025" title="Facbook Profile"><img width="22" src="https://www.digitalunite.com/sites/default/files/images/facebook%20%282%29_1.png"> Facebook</a></code>
   <code><a href="https://x.com/Rifat240510" title="X Profile"><img width="22" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?semt=ais_incoming&w=740&q=80"> X</a></code>
   <code><a href="https://www.instagram.com/rifatuzzaman_rifat_/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/ba85320505494f829ddfee23911329a2505bb388/images/instagram.svg"> Instagram</a></code>
 </h5>
@@ -23,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm **Rifatuzzaman Rifat**. I’m a **MERN Stack Developer** who loves building clean and user-friendly applications. I work with **MongoDB, Express.js, React, Node.js** along with HTML, CSS, Tailwind and JavaScript. I enjoy creating projects, learning new things and sharing knowledge. Outside of coding, I like reading and exploring new technologies.
+I'm **Rifatuzzaman Rifat**. I’m a **MERN Stack Developer** who loves building clean and user-friendly applications. I work with **MongoDB, Express.js, React, Node.js** along with HTML, CSS, Tailwind and JavaScript. I enjoy creating projects, learning new things and sharing knowledge. Outside of coding, I like reading and exploring new technologies.
 
 ---
 
