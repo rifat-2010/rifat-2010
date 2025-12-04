@@ -51,8 +51,10 @@ I'm **Rifatuzzaman Rifat**. I’m a **MERN Stack Developer** who loves building 
 
 ## 🚀 GitHub Statistics
 
-| <img src="https://github-readme-stats.vercel.app/api?username=rifat-2010&show_icons=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-2010&layout=compact" /> |
+| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rifat-2010&show_icons=true" /> | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rifat-2010&layout=compact" /> |
 | --- | --- |
+
+
 
 
 
